@@ -207,7 +207,7 @@ def s2(d, k, n):
             d.ellipse([x - 8, y - 8, x + 8, y + 8], fill=TEAL)
     clay_text(d, "Meet BData Solutions", W // 2, 80, F64, DEEP, k)
     if t > 0.5:
-        clay_text(d, "Belle pulls your data — and your mission — out of the mess.", W // 2, 165, F26, TEAL, k)
+        clay_text(d, "Barakatou pulls your data — and your mission — out of the mess.", W // 2, 165, F26, TEAL, k)
 scene(6, s2)
 
 # Scene 3 (6s): transformation — dashboard rises, women lifted & smiling
