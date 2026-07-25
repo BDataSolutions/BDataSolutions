@@ -4,6 +4,11 @@
 
 ## Downloads
 
+0. **⭐ UPLOAD-READY FINAL (music + logo watermark)** (MP4, ~109 MB):
+   https://d2ol7oe51mr4n9.cloudfront.net/user_3GhPyAdR8OQeZpTFjDtc2ne0Fdt/df4dec43-ea9a-4b46-a569-04bdb2db815c.mp4
+   — narration + "Five of a Kind" (Density & Time, YouTube Audio Library, claim-safe) looped at 9% volume with a 4 s fade-out, BData logo (channel icon) bottom-right at 72 px / 72% opacity.
+
+
 1. **Final video** (MP4, ~95 MB):
    https://d2ol7oe51mr4n9.cloudfront.net/user_3GhPyAdR8OQeZpTFjDtc2ne0Fdt/9c716531-011e-49d8-beb0-42fe42e29dca.mp4
 
