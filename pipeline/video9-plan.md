@@ -89,3 +89,21 @@ BData Solutions is a data and analytics consultancy built for nonprofits and pub
 
 **Tags:** AI ready data, nonprofit data quality, AI nonprofit, messy data, data cleanup nonprofit, Gartner AI data, nonprofit reporting, client record matching, BData Solutions
 **Settings:** Standard YouTube License · not made for kids · comments allowed, hold inappropriate for review
+
+---
+
+## Audio — processed 2026-08-07
+
+| Version | Length | Link |
+|---|---|---|
+| **⭐ Final (cuts + denoise)** | 7:32 | https://d2ol7oe51mr4n9.cloudfront.net/user_3GhPyAdR8OQeZpTFjDtc2ne0Fdt/b81d02d7-2f9f-4375-810c-67ee9ca5f96e.mp3 |
+| Silence-trim only (no content cuts) | 8:31 | https://d2ol7oe51mr4n9.cloudfront.net/user_3GhPyAdR8OQeZpTFjDtc2ne0Fdt/2e9c64bd-c7f0-481f-8069-86af85a54050.mp3 |
+| Raw as recorded | 10:09 | `video9/video9_raw.m4a` |
+
+Processing chain: silence trim (-40 dB, 0.9 s) → remove three retakes
+(0:00–0:23 duplicate opening, 3:42–3:46 false start, 3:56–4:28 flubbed
+"bad spreadsheet" passage) → highpass 85 Hz → FFT denoise (-28 dB) →
+gentle compression (2.5:1) → loudnorm to −16 LUFS / −1.5 dBTP (YouTube spec).
+
+**Blocked:** Videos 11–14 illustrations. Higgsfield balance is 0.08 credits
+(free plan); 22 new images need ≈3.3 credits.
